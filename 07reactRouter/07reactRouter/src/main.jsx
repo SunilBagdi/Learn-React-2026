@@ -61,7 +61,8 @@ const routerBySunil = createBrowserRouter(
         loader = {githubInfoLoader}
         path='github'
         element={<Github />} />
-      </Route>
+
+    </Route>
   )
 )
 
